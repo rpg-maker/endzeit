@@ -1,0 +1,170 @@
+ENDZEIT - Ein Spiel in sechs Folgen von real Troll
+--------------------------------------------------
+
+1. Steuerung
+2. Spielmechanik
+3. Dank
+4. Kontakt
+
+
+---------------
+1. Steuerung
+---------------
+
+"Endzeit" ist ein Siebentastenspiel. Die vier Pfeiltasten dienen zur Bewegung und Auswahl. 
+Mit Enter bestätigt man, mit Escape bricht man ab, worin auch immer man sich gerade verstrickte.
+Per Shift lässt man den Helden rennen. 
+(Und ganz Eilige kommen mit der F12-Taste jederzeit in den Spielstartbildschirm zurück.)
+
+
+----------------
+2. Spielmechanik
+----------------
+
+Wie funktioniert was? Im Spiel kommen diverse Werte und Begriffe vor, die folgendes bedeuten:
+
+Heldenwerte:
+------------
+EP         : Erfahrungspunkte sind die Kernressource im Rollenspiel. Sammelt der Held genügend EP, steigt er eine
+             Stufe auf, wird leistungsfähiger, robuster und erhält gegebenenfalls Zugang zu neuen Talenten. 
+Leben      : Ohne verbliebene Lebenspunkte kann ein Held nicht mehr ins Geschehen eingreifen. Er stirbt nicht,
+             ihm kann immer noch geholfen werden. Allerdings ist das Spiel verloren, sobald die Lebenspunkte der
+             gesamten Gruppe auf Null gesunken sind.
+Energie    : Es ist die entscheidende Ressource für alle aktiven Talente. Jedes aktive Talent kostet Energie.
+Angriff    : Die ausgerüstete Waffe bestimmt, wie hoch der Angriffswert ist, der zusammen mit der Kraft über den 
+             ausgeteilten Schaden entscheidet. 
+Schutz     : Der Schutzwert mindert den physischen Schaden gegnerischer Attacken. Der Schutz wird durch Rüstungen
+             erhöht.
+StraWiWert : Der StraWiWert (Strahlungswiderstandswert) mindert den Schaden gegnerischer Spezialattacken. Außerdem
+             kann man mit einem entsprechend hohen StraWiWert aller Gruppenmitglieder sogar besonders verstrahlte
+             Zonen betreten. Der StraWiWert wird durch ausgerüsteten Strahlungsschutz erhöht.
+Kraft      : Die reine Körperkraft des Helden steigert in Verbindung mit dem Angriffswert den ausgeteilten Schaden.
+             Zudem skalieren Kampftalente stärkebetonter Spezialattacken mit der Kraft des Helden. Ein hochstufiger 
+             Held wird mit so einer Attacke wesentlich mehr Schaden machen als er es noch auf einer niedrigen Stufe 
+             vermochte.
+Handwerk   : Ein hoher Handwerkswert steigert den Ertrag an PAB beim Ausschlachten werthaltiger Gegenstände. Darüber 
+             hinaus verlangen die diversen Baupläne ein jeweiliges Mindestmaß an Handwerksgeschick, um mit dem Bau 
+             überhaupt beginnen zu dürfen.
+Flinkheit  : Der Flinkere ist in der Kampfrunde früher an der Reihe. 
+Intelligenz: Intelligenzbetonte Talente skalieren mit diesem Wert. Ein hochstufiger Held wird beispielsweise mit 
+             einer Heilung wesentlich mehr Lebenspunkte auffüllen, als er es noch auf einer niedrigen Stufe vermochte.  
+PAB        : In der Atomöde hat das Geld der Vorzeit keinen Wert mehr. Nun zählt, was für die Anforderungen der neuen
+             Zeit taugt: post-apokalyptisch Brauchbares (PAB). Besteht es aus nützlichem Material? Hat es interessante
+             Bestandteile? Beispiel: Ein Kleiderbügel ist 1 PAB wert, ein Kofferradio hingegen 10. 
+
+Zustände:
+---------
+Ohnmacht     : Die Lebenspunkte sind auf Null gesunken. Der Held kann nicht mehr gesteuert werden.
+Betäubung    : Der Held scheidet für die aktuelle Kampfrunde aus. In der Folgerunde kommt er wieder zu sich.
+Blindheit    : Die Trefferrate normaler Angriffe ist auf 20% gesunken.
+Stummheit    : Der Held kann keine Talente einsetzen.
+Konfusion    : Der Held ist der Steuerung entzogen und greift sich selbst sowie seine Mitstreiter an.
+Schlaf       : Der Held kann nicht gesteuert werden. Nach 2 Runden wacht er mit einer Wahrscheinlichkeit von 50% auf. Jeder
+               Angriff während des Schlafs lässt ihn mit einer Chance von 50% wieder zu sich kommen. 
+Schwäche     : Die Kraft ist um 50% reduziert.
+Trägheit     : Die Flinkheit ist um 50% reduziert.
+Verdummung   : Die Intelligenz ist um 50% reduziert.
+Determination: Der Held wurde entschlüsselt und verfügt damit über weniger Verteidigung gegenüber Folgeangriffen.
+Gift         : Jede Runde erleidet der Held einen Abzug auf seine Lebenspunkte.
+Wunde        : Jede Runde erleidet der Held einen Abzug auf seine Lebenspunkte.
+Brand        : Jede Runde erleidet der Held einen Abzug auf seine Lebenspunkte.
+Parasit      : Jede Runde erleidet der Held einen Abzug auf seine Lebenspunkte.
+
+Das Beschriebenen gilt ebenso für die Gegner. Jeder Zustand kann geheilt werden. Zusätzlich hat jeder der Helden eine 
+persönliche Schwäche, die unter gewissen Umständen auftritt.
+
+
+---------------
+3. Dank
+---------------
+
+Grafik:
+-------
+Ein besonders großes Danke für die schönen Grafikkachelsätze, die mir als 
+Grundlage weiterer Bearbeitungen dienten, geht auch bei diesem Projekt an REFMAP.
+Außerdem danke ich emlan, unusable, Piffle Stix und Dot Picture World (http://yms.main.jp). 
+Und wer immer auch Grafiken entdeckt, von denen er meint, sie seien von ihm,
+verargt es mir bitte nicht, wenn er bislang namenlos dem Spiel nutzte, sondern
+sagt mir einfach Bescheid und wird dann ebenfalls bedacht.
+
+
+Musik:
+------
+Zahlreiche Musiker stellen ihre Werke mittlerweile zur unentgeltlichen Nutzung zur 
+Verfügung, solange damit kein kommerzielles Interesse verfolgt wird. Ich danke:
+
+ Bob Wizman - News of HANK
+ Conway Hambone - Herbert Fontaine
+ Dave Imbernön - Sequence I
+ Distemper - All colors crew
+ Doctor Pelujiano - Hierba instrumental
+ Ehl-i Keyif - Hüzzam Kanun Taksim
+ Gerald Jay - Egyptian Shaman
+ JesterN - Track09
+ HiGhMaS - Bad News From The Stars
+ Garco - Tarantula
+ Ketsa - Trix
+ Kevin MacLeod - Happy Happy Game Show
+ Kevin MacLeod - Malicious
+ Kevin MacLeod - Pachelbels Kanon in D Major
+ Kevin MacLeod - Thatched Villagers
+ KieLoBot - Bonds Secret Sofa
+ Loic Liatard - Easy Listening
+ Marius Joppich - Hip Swing
+ Melange - La cosecha
+ Jesus First Christ - Psychodelia
+ Oleg O Kachanko - Royal Halls
+ Olivier Girardot - Sunset on the Beach
+ Ozum Itez - Sequoia Variations
+ pat - beat60s
+ Por Vencidos - 02 V
+ Rico - Girls
+ Robert80z - Mexican
+ Petite Viking - OLD SCHOOL
+ Seastock - Engine
+ Tom La Meche - Hypnotic 60s groove
+ White Visor - Dark Hearted
+
+http://freemusicarchive.org/
+incompetech.com/music/
+https://www.jamendo.com/
+
+
+Technik:
+--------
+Ich habe "Endzeit" mit dem RPG Maker XP erstellt und nutze einige Zusatzscripte:
+
+Anti Event Lag Script (von Near Fantastica)
+AMS - Advanced Message Script - R4 (von Creation Asylum, bearbeitet von Dubealex)
+Dynamic Sounds (von Ryex; besteht aus: Dynamic Effects Engine, Ryex's Dynamic Sounds, DYNAMIC SOUNDS PATCH)
+Dynamic Time and Light System (von TimeKeeper)
+Enemy/Actor HP & SP Bars (von El Conducter, erweitert von FlipelyFlip)
+Event Transitions (von ThallionDarkshine)
+HERETIC'S CIRCULAR SPRITE MOTION [XP] (von Heretic)
+HERETIC'S MODULAR PASSABLE [XP] (von Heretic)
+HERETIC'S ROTATE, ZOOM, AND PENDULUMS [XP] (von Heretic)
+Panaromabewegung (von Shining Advances)
+Sprite_Shadow (Ursprungsversion von Genzai Kawakami, bearbeitet von Rataime)
+Sprite_Sun (Ursprungsversion von Genzai Kawakami, bearbeitet von Rataime und Boushy)
+Transitions Module (von Heretic)
+
+
+Betatester:
+-----------
+Vielen Dank an Betatestermaus sowie Ark_X, D4rkplayer, Leana, Lord of Riva und wusch.
+
+
+---------------
+4. Kontakt
+---------------
+
+Für Fragen rund ums Spiel, Informationen, Anregungen, Fehlerfunde oder Gedankenaustausch gibt es:
+
+Internetseite: http://realtroll.npage.de/
+
+Forum: https://www.multimediaxis.de/threads/144229-Endzeit
+
+Email: real_troll2005@yahoo.de
+
+
+Viel Spaß mit "Endzeit".
